@@ -1,0 +1,22 @@
+<meta>
+	<info name="Open DayZ for MTA:SA" type="gamemode" author="LuXorioN" />
+	
+	<!-- SHARED -->
+		<script type="shared" src="shared/classes/classlib.lua" />
+		<script type="shared" src="shared/classes/Object.lua" />
+		<script type="shared" src="shared/classes/Singleton.lua" />
+		<script type="shared" src="shared/classes/File.lua" />
+	
+	<!-- SERVER -->
+		<script type="server" src="server/classes/core.lua" />
+		<script type="server" src="server/init.lua" />
+		<script type="server" src="server/Constants.lua" />
+		
+	<!-- CLIENT -->
+		<script type="client" src="client/init.lua" />
+		<script type="client" src="client/classes/core.lua" />
+		<script type="client" src="client/Constants.lua" />
+		
+	<!-- FILES -->
+	
+</meta>
